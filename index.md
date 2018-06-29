@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to AI Adventures
+AI Adventures is a brand new Swift Playground created by [Sai Kambampati](www.saikambampati.com)! In this playground, you can learn all about the fundamentals of Artificial Intelligence and Machine Learning. Many people think these topics are really advanced and require a lot of math skills and computer science knowledge! Download this playground and see how easy it all is!
 
-You can use the [editor on GitHub](https://github.com/aidev1065/AIAdventures/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We'll first begin with some basic terminology and concepts. You know, to get the boring stuff out of the way. Then, we jump into the really amazing stuff where I'll teach you how to use Apple's CoreML and Vision frameworks to create some amazing apps such as image recognition, face recognition, and more!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What You'll Learn
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aidev1065/AIAdventures/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Introduction to Artificial Intelligence
+2. Image Recognition
+3. Face Recognition
+4. Text Detection
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with AI Adventures? Have an idea you want to try? You can reach me through [Twitter](www.twitter.com/Sai_K1065), [Email](mailto:ssv1065@gmail.com), or [my website](www.saikambampati.com)! Can't wait to see what you come up with!
